@@ -9,6 +9,7 @@ function checkWords() {
         document.getElementById("checkWord").value = "";
     }
 }
+
 function addWords() {
     let word = document.getElementById("addedWord").value;
     if (added_Words.includes(word)) {
