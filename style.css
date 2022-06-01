@@ -1,0 +1,11 @@
+body {
+    background-image: #F0FFFF;
+    background-repeat: no-repeat;
+}
+.header {
+    text-align: center;
+    padding: 5px;
+    background: #CD853F;
+    color: white;
+    font-size: 50px;
+  }
